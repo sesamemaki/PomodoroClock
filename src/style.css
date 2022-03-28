@@ -13,7 +13,10 @@ body {
   font-family: 'Poppins', sans-serif; 
   min-height: 100vh;
   text-align: center;
-	}
+  background-image: url("../public/img/pomodoro2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 
 button {
   background-color: transparent;
