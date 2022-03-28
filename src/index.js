@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import '../src/style.css';
+
 // const App = () => (<div><SetTimer/></div>)
 
 const audio = document.getElementById('beep');
