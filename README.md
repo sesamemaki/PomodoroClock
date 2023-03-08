@@ -1,3 +1,4 @@
+![pomodoro](https://user-images.githubusercontent.com/99922048/223734134-d78695aa-cca2-49b2-84a9-cb5df2722478.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
